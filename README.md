@@ -1,4 +1,7 @@
-# gerenciamentodeprojetos
-Curso de gerenciamento de projetos para geração de trabalho e renda
-Gerenciamento de projetos PMBOK!
-Para geração de trabalho e renda.
+# curso_bootstrap
+Curso de Bootstrap lecionado no canal do YouTube.
+# curso_bootstrap
+Curso de Bootstrap lecionado no canal do YouTube.
+Estou ajudando neste projeto este é um forked
+Você pode fazer parte deste projeto também 
+Vamos aprender juntos!
